@@ -79,7 +79,7 @@ The project includes a Jupyter Notebook (BTC-LR.ipynb) for analyzing Bitcoin dat
 
 ## Results (BTC Example)
 ![Bitcoin Linear Regression Prediction](image-1.png)
-
+Pink represents the prediction of the prices of Bitcoin
 
 
 
